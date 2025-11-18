@@ -1,0 +1,12 @@
+# Infographic Poster Rubric
+
+Each criterion is scored in bands: **0–2**, **3–4**, **5–6**, **7–8**.
+
+| Criterion | 0–2 | 3–4 | 5–6 | 7–8 |
+| --- | --- | --- | --- | --- |
+| **Completeness of Information** | Most content is unrelated to the main topic and/or supporting details and/or examples are not relevant. | Most infographics content relates to the main topic and/or most supporting details and/or examples are relevant but lack explanation. | Infographics content clearly relates to the main topic and most supporting details and/or examples are relevant and explained. | Infographics content clearly relates to the main topic and all supporting details and/or examples are relevant and explained. |
+| **Content Requirements** | Most content requirements are missing. | 2–3 content requirements are missing. | Most content requirements are included. | All content requirements are included. |
+| **Visual Presentation** | Planning and organization of infographics is not logical. The balance of graphics and text is not appropriate. | Planning and organization of infographics is somewhat logical. The balance of graphics and text is not appropriate. | Planning and organization of infographics is mostly logical and includes an appropriate balance of graphics and text. | Planning and organization of infographics is logical and includes an appropriate balance of graphics and text. |
+| **Visual Requirements** | Few visual elements are met. Visuals are irrelevant, no contrast, not focused, no labels, non-informative. | Some visual elements are met. More than two of the following are missing: visuals are irrelevant, no contrast, not focused, no labels, non-informative. | Most visual elements are met. | All visual elements are met. |
+| **Creativity** | Student uses little creativity to adapt ideas of others; other examples found online. | Student adapts others’ ideas to create own design; very little originality shown. | Student adapts others’ ideas to create own design; some originality shown. | New and innovative approach to the topic; student has created own design and product. |
+| **References** | Some sources (information and graphics) are not accurately documented or from creditable sources. | Information and graphics are accurately documented but may not be from creditable sources. Many sources are not in APA format. | All information and graphics are from credible sources and accurately documented, but a few are not in APA format. | All information and graphics are from credible sources and accurately documented in APA format. |
